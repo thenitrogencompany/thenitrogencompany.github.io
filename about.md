@@ -29,32 +29,6 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
       <button type="submit" style="width: 100%;">Send</button>
     </form>
   </div>
-  <!-- Thank-you message container -->
-  <div id="thank-you-message" style="display: none; max-width: 600px; margin: 20px auto; font-size: 18px;">
-    Thank you for your submission. We will get back to you soon!
-  </div>
-</div>
-
-<script>
-document.getElementById('form-container').addEventListener('submit', function(event) {
-  event.preventDefault(); // Stop the form from submitting normally
-  var form = event.target;
-
-  // Optionally, add any validation or checks before submitting the form
-
-  // Form submission via the iframe
-  form.submit();
-
-  // Hide the form and show the thank-you message
-  document.getElementById('form-container').style.display = 'none';
-  document.getElementById('thank-you-message').style.display = 'block';
-});
-</script>
-
-
-
-
-
 
 ## Our Technology
 
