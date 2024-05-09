@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
-
 Our origins at Stanford University have equipped us with cutting-edge expertise in plasma physics, laying the foundation for our core technology: large-scale plasma reactors.
 
 Our mission is straightforward: to revolutionize chemical manufacturing by making it cleaner and more efficient. Our plasma reactors utilize advanced techniques to enhance process efficiency and reduce the environmental footprint of chemical production.
