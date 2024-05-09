@@ -12,7 +12,10 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
 
 ## Contact
 <div style="text-align: center;">
-  <form action="https://formspree.io/f/xwkgzpey" method="POST" style="display: inline-block; text-align: left; width: 100%; max-width: 600px;">
+  <!-- iframe where the form will submit, and the response will be loaded -->
+  <iframe name="form_output" style="width: 0; height: 0; border: 0;"></iframe>
+
+  <form action="https://formspree.io/f/xwkgzpey" method="POST" target="form_output" style="display: inline-block; text-align: left; width: 100%; max-width: 600px;">
     <label for="email">Your email:</label>
     <br>
     <input type="email" id="email" name="email" required style="width: 100%;">
@@ -25,6 +28,7 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
     <button type="submit" style="width: 100%;">Send</button>
   </form>
 </div>
+
 
 
 
