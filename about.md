@@ -9,20 +9,15 @@ permalink: /about/
 Revolutionizing chemical synthesis, The Nitrogen Company pioneers innovation through plasma technology. Harnessing the power of plasmas, we defy convention to create novel chemicals with unparalleled efficiency and precision. Our commitment to sustainability drives us to explore new frontiers, reshaping industries and advancing towards a greener future.
 
 ## Contact
+<form action="https://formspree.io/f/xwkgzpey" method="POST">
+  <label for="email">Your email:</label>
+  <input type="email" id="email" name="email" required>
 
-<form
-  action="https://formspree.io/f/xwkgzpey"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
+  <label for="message">Your message:</label>
+  <textarea id="message" name="message" required></textarea>
+
+  <!-- Other form fields can be added here -->
+
   <button type="submit">Send</button>
 </form>
 
