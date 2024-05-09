@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+# About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla felis turpis, commodo sit amet fringilla ut, bibendum vel purus. Integer eget justo vitae ligula vestibulum condimentum. Aenean lacinia imperdiet odio non consequat.
+Revolutionizing chemical synthesis, The Nitrogen Company pioneers innovation through plasma technology. Harnessing the power of plasmas, we defy convention to create novel chemicals with unparalleled efficiency and precision. Our commitment to sustainability drives us to explore new frontiers, reshaping industries and advancing towards a greener future.
 
-## Skills
+## Our Technology
 
-- HTML
-- CSS
-- JavaScript
+The **Nitrogen Company** excels in plasma reactor technology, revolutionizing agrochemical synthesis, ESAF, and CO2 splitting:
+
+## Agrochemicals Synthesis
+
+Efficiently produces high quality agrochemicals with high purity and reduced environmental impact.
+
+## Fuels
+
+Enables energy-efficient, scalable, and sustainable production of sustainable fuels. 
+
+## CO2 Splitting
+
+Converts carbon dioxide into valuable products using renewable energy. 
