@@ -1,4 +1,4 @@
 theme: minima
-- title: About
-  url: /about/
-  icon: fas fa-info-circle
+
+header_pages:
+  - about.md
