@@ -12,10 +12,10 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
 
 ## Contact
 <div style="text-align: center;">
-  <!-- iframe where the form will submit, and the response will be loaded -->
-  <iframe name="form_output" style="width: 0; height: 0; border: 0; visibility: hidden;" onload="formSubmitted()"></iframe>
+  <!-- iframe for form submission -->
+  <iframe name="form_output" style="width: 0; height: 0; border: 0; visibility: hidden;"></iframe>
 
-  <!-- Form container for easier manipulation -->
+  <!-- Form container -->
   <div id="form-container">
     <form action="https://formspree.io/f/xwkgzpey" method="POST" target="form_output" style="display: inline-block; text-align: left; width: 100%; max-width: 600px;">
       <label for="email">Your email:</label>
@@ -26,27 +26,24 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
       <br>
       <textarea id="message" name="message" required style="width: 100%; height: 150px;"></textarea>
       <br>
-      <button type="submit" style="width: 100%;">Send</button>
+      <button type="submit" style="width: 100%;" onclick="displayThankYou()">Send</button>
     </form>
   </div>
-  <!-- Message displayed after form submission -->
+  <!-- Thank-you message container -->
   <div id="thank-you-message" style="display: none; max-width: 600px; margin: 20px auto; font-size: 18px;">
     Thank you for your submission. We will get back to you soon!
   </div>
 </div>
 
 <script>
-  function formSubmitted() {
-    // Check if the iframe body is empty; if not, assume content was loaded
-    var iframe = document.getElementsByName('form_output')[0];
-    if (iframe.contentDocument && iframe.contentDocument.body.innerHTML.trim() !== "") {
-      // Hide the form
-      document.getElementById('form-container').style.display = 'none';
-      // Show the thank-you message
-      document.getElementById('thank-you-message').style.display = 'block';
-    }
+  function displayThankYou() {
+    // Prevent form container from showing once the button is clicked
+    document.getElementById('form-container').style.display = 'none';
+    // Display the thank-you message
+    document.getElementById('thank-you-message').style.display = 'block';
   }
 </script>
+
 
 
 
