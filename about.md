@@ -12,7 +12,7 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
 
 ## Contact
 <div style="text-align: center;">
-  <!-- iframe for form submission -->
+  <!-- iframe for form submission, hidden from view -->
   <iframe name="form_output" style="width: 0; height: 0; border: 0; visibility: hidden;"></iframe>
 
   <!-- Form container -->
@@ -26,7 +26,7 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
       <br>
       <textarea id="message" name="message" required style="width: 100%; height: 150px;"></textarea>
       <br>
-      <button type="submit" style="width: 100%;" onclick="displayThankYou()">Send</button>
+      <button type="submit" style="width: 100%;">Send</button>
     </form>
   </div>
   <!-- Thank-you message container -->
@@ -36,12 +36,19 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
 </div>
 
 <script>
-  function displayThankYou() {
-    // Prevent form container from showing once the button is clicked
-    document.getElementById('form-container').style.display = 'none';
-    // Display the thank-you message
-    document.getElementById('thank-you-message').style.display = 'block';
-  }
+document.getElementById('form-container').addEventListener('submit', function(event) {
+  event.preventDefault(); // Stop the form from submitting normally
+  var form = event.target;
+
+  // Optionally, add any validation or checks before submitting the form
+
+  // Form submission via the iframe
+  form.submit();
+
+  // Hide the form and show the thank-you message
+  document.getElementById('form-container').style.display = 'none';
+  document.getElementById('thank-you-message').style.display = 'block';
+});
 </script>
 
 
