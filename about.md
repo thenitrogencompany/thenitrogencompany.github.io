@@ -11,24 +11,21 @@ Our origins at Stanford University have equipped us with cutting-edge expertise 
 Our mission is straightforward: to revolutionize chemical manufacturing by making it cleaner and more efficient. Our plasma reactors utilize advanced techniques to enhance process efficiency and reduce the environmental footprint of chemical production.
 
 ## Contact
-<div style="text-align: center;">
-  <!-- iframe for form submission, hidden from view -->
-  <iframe name="form_output" style="width: 0; height: 0; border: 0; visibility: hidden;"></iframe>
 
-  <!-- Form container -->
-  <div id="form-container">
-    <form action="https://formspree.io/f/xwkgzpey" method="POST" target="form_output" style="display: inline-block; text-align: left; width: 100%; max-width: 600px;">
-      <label for="email">Your email:</label>
-      <br>
-      <input type="email" id="email" name="email" required style="width: 100%;">
-      <br>
-      <label for="message">Your message:</label>
-      <br>
-      <textarea id="message" name="message" required style="width: 100%; height: 150px;"></textarea>
-      <br>
-      <button type="submit" style="width: 100%;">Send</button>
-    </form>
+<!-- modify this form HTML and place wherever you want your form -->
+<form action="https://formspree.io/f/xwkgzpey" method="POST" class="my-form">
+  <div class="form-group">
+    <label for="email">Your email:</label>
+    <input type="email" name="email" id="email" placeholder="Enter your email" required>
   </div>
+  <div class="form-group">
+    <label for="message">Your message:</label>
+    <textarea name="message" id="message" placeholder="Type your message here..." required></textarea>
+  </div>
+  <!-- your other form fields go here -->
+  <button type="submit" class="submit-btn">Send</button>
+</form>
+
 
 ## Our Technology
 
