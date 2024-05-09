@@ -1,2 +1,4 @@
 theme: minima
-rss_feed: false
+- title: About
+  url: /about/
+  icon: fas fa-info-circle
