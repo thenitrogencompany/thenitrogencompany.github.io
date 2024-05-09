@@ -12,19 +12,20 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
 
 ## Contact
 <div style="text-align: center;">
-  <form action="https://formspree.io/f/xwkgzpey" method="POST" style="display: inline-block; text-align: left;">
+  <form action="https://formspree.io/f/xwkgzpey" method="POST" style="display: inline-block; text-align: left; width: 100%; max-width: 600px;">
     <label for="email">Your email:</label>
     <br>
-    <input type="email" id="email" name="email" required>
+    <input type="email" id="email" name="email" required style="width: 100%;">
     <br>
     <label for="message">Your message:</label>
     <br>
-    <textarea id="message" name="message" required></textarea>
+    <textarea id="message" name="message" required style="width: 100%; height: 150px;"></textarea>
     <br>
     <!-- Other form fields can be added here -->
-    <button type="submit">Send</button>
+    <button type="submit" style="width: 100%;">Send</button>
   </form>
 </div>
+
 
 
 ## Our Technology
