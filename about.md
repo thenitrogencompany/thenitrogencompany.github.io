@@ -6,7 +6,9 @@ permalink: /about/
 
 # About
 
-Revolutionizing chemical synthesis, The Nitrogen Company pioneers innovation through plasma technology. Harnessing the power of plasmas, we defy convention to create novel chemicals with unparalleled efficiency and precision. Our commitment to sustainability drives us to explore new frontiers, reshaping industries and advancing towards a greener future.
+Our origins at Stanford University have equipped us with cutting-edge expertise in plasma physics, laying the foundation for our core technology: large-scale plasma reactors.
+
+Our mission is straightforward: to revolutionize chemical manufacturing by making it cleaner and more efficient. Our plasma reactors utilize advanced techniques to enhance process efficiency and reduce the environmental footprint of chemical production.
 
 ## Contact
 <div style="text-align: center;">
