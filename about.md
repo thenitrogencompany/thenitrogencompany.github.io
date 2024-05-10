@@ -8,7 +8,14 @@ At The Nitrogen Company, we are committed to transforming agriculture through th
 
 Our flagship innovation, Plasma-Peroxynitrate, is at the core of our advancements. This cutting-edge solution is designed to dramatically increase crop and turf yields while significantly reducing the reliance on traditional nitrogen fertilizers. Precision-engineered to optimize nutrient delivery, our formula enhances bioavailability to plants, leading to yield increases of up to 2.5 times in field studies. It fosters healthier, more robust plant growth and contributes to sustainable agricultural practices by minimizing water usage and reducing the need for chemical inputs.
 
-Farmers and landscape managers who implement our Plasma-Peroxynitrate formulations benefit from not only heightened productivity but also enhanced environmental resilience of their agricultural and greenspaces.
+### Field Studies
+Our commitment to innovation is demonstrated through rigorous field studies that validate the effectiveness of our chemicals. These studies, conducted globally across diverse agricultural settings, have shown marketabe yield increases of up to 2.5 times in key crops such as lettuce, with significant improvements in turf grass quality as well.
+
+### Peer-Reviewed Research
+The findings from our field studies are further substantiated by publications in respected peer-reviewed journals. This research provides the scientific community and agricultural industry with data-backed evidence of our products’ efficacy and safety, fostering a deeper understanding and acceptance of our innovative solutions.
+
+### Commitment to Transparency
+We believe in full transparency in all our endeavors. Detailed reports of our field studies and research publications are openly available to ensure that stakeholders, including farmers, researchers, and consumers, can make informed decisions. Our transparency extends to our ongoing efforts to improve environmental sustainability and reduce the ecological footprint of agricultural practices.
 
 ## Contact
 
