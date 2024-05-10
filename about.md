@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Our origins at Stanford University have equipped us with cutting-edge expertise in plasma physics, laying the foundation for our core technology: large-scale plasma reactors.
+At The Nitrogen Company, we are committed to transforming agriculture through the development of groundbreaking chemicals that enhance the vitality and yield of a broad range of crops, including vegetables and fruits. Our focus is on crafting innovative, safe, and environmentally sustainable solutions, ensuring each harvest is not only bountiful but of the highest quality.
 
-Our mission is straightforward: to revolutionize chemical manufacturing by making it cleaner and more efficient. Our plasma reactors utilize advanced techniques to enhance process efficiency and reduce the environmental footprint of chemical production.
+Our flagship innovation, Plasma-Peroxynitrate, is at the core of our advancements. This cutting-edge solution is designed to dramatically increase crop and turf yields while significantly reducing the reliance on traditional nitrogen fertilizers. Precision-engineered to optimize nutrient delivery, our formula enhances bioavailability to plants, leading to yield increases of up to 2.5 times in field studies. It fosters healthier, more robust plant growth and contributes to sustainable agricultural practices by minimizing water usage and reducing the need for chemical inputs.
+
+Farmers and landscape managers who implement our Plasma-Peroxynitrate formulations benefit from not only heightened productivity but also enhanced environmental resilience of their agricultural and greenspaces.
 
 ## Contact
 
@@ -67,19 +69,3 @@ Our mission is straightforward: to revolutionize chemical manufacturing by makin
 }
 </style>
 
-
-## Our Technology
-
-The **Nitrogen Company** excels in plasma reactor technology, revolutionizing agrochemical synthesis, ESAF, and CO2 splitting:
-
-## Agrochemicals Synthesis
-
-Efficiently produces high quality agrochemicals with high purity and reduced environmental impact.
-
-## Fuels
-
-Enables energy-efficient, scalable, and sustainable production of sustainable fuels. 
-
-## CO2 Splitting
-
-Converts carbon dioxide into valuable products using renewable energy. 
