@@ -3,4 +3,5 @@ theme: minima
 header_pages:
   - about.md
   - research.md
+  - tech.md
   - purchase.md
