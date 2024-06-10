@@ -35,6 +35,10 @@ This study demonstrates that plasma-fixed nitrogen (PFN), used as an inorganic b
 
 # Plasma-fixated Nitrogen as Fertilizer for Turf Grass
 
+<div style="text-align: center;">
+    <img src="/docs/assets/paw_turf.png" alt="Book logo" style="margin-bottom: 20px;">
+</div>
+
 ## Abstract
 This study explores the use of plasma-fixated nitrogen, which produces nitrates in water, as a nitrogen fertilizer for turf grass like rye grass and bent grass. Experiments showed that grass treated with plasma-fixated nitrogen had improved growth compared to those treated with sodium nitrate and potassium nitrate. Adding phosphorus and potassium to the plasma-fixated nitrogen further enhanced grass growth, highlighting its potential as a sustainable fertilizer alternative.
 
